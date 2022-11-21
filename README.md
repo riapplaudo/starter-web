@@ -6,3 +6,6 @@ this is a second trial
 ## linea 3
 ## Deployment
 this is third trial
+
+### COPYRIGHT
+git.training 2022
