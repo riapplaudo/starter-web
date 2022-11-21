@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
+	
+	R I mail@mail.com @twitter
 
     <name> -- <role> -- <twitter>
 
